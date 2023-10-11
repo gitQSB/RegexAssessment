@@ -5,7 +5,7 @@ import re
 
 # read text body of log into variable
 
-with open('tek_sys_log.txt','r') as file:
+with open('sys_log.txt','r') as file:
     sLogText = file.read()
 
 ''' 
